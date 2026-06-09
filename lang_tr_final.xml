@@ -1,0 +1,1567 @@
+Language.tr
+<?xml version='1.0' encoding='utf-8'?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  	<data name="EPISODE_1_EYE_FULL_NAME" xml:space="preserve">
+		<value>Episode One: The Clocks were Striking Thirteen</value>
+	</data>
+	<data name="EPISODE_2_EYE_FULL_NAME" xml:space="preserve">
+		<value>Episode Two: A Place where there is No Darkness</value>
+	</data>
+	<data name="EPISODE_3_EYE_FULL_NAME" xml:space="preserve">
+		<value>Episode Three: Unperson</value>
+	</data>
+	<data name="EPISODE_4_EYE_FULL_NAME" xml:space="preserve">
+		<value>Episode Four: Memory Hole</value>
+	</data>
+	<data name="EPISODE_5_EYE_FULL_NAME" xml:space="preserve">
+		<value>Episode Five: Under the Spreading Chestnut Tree</value>
+	</data>
+	<data name="EPISODE_1_IGNORANCE_FULL_NAME" xml:space="preserve">
+		<value>Episode One: Thesis</value>
+	</data>
+	<data name="EPISODE_2_IGNORANCE_FULL_NAME" xml:space="preserve">
+		<value>Episode Two: Antithesis</value>
+	</data>
+	<data name="EPISODE_3_IGNORANCE_FULL_NAME" xml:space="preserve">
+		<value>Episode Three: Synthesis</value>
+	</data>
+	<data name="APTITUDE_TEST_ERROR_INSERT_DATACHUNK" xml:space="preserve">
+		<value>Lütfen en az bir Veri Bloğu yerleştirin.</value>
+	</data>
+	<data name="APTITUDETEST_MAIL_UNAVAILABLE" xml:space="preserve">
+		<value>N/A</value>
+	</data>
+	<data name="ATN_ANNOTATION_1FAILED" xml:space="preserve">
+		<value>Has failed exam 1 time before.</value>
+	</data>
+	<data name="ATN_ANNOTATION_2FAILED" xml:space="preserve">
+		<value>Has failed exam 2 times before.</value>
+	</data>
+	<data name="ATN_ANNOTATION_BONUS" xml:space="preserve">
+		<value>Bonus credit points accounted due to writing an optional essay.</value>
+	</data>
+	<data name="ATN_ANNOTATION_CERTIFICATE" xml:space="preserve">
+		<value>Has requested a written certificate of attendance.</value>
+	</data>
+	<data name="ATN_ANNOTATION_JULIET" xml:space="preserve">
+		<value>Master thesis "Rhosen Tech's Ten Commandments: pillars of success or just PR trickery?" registered at this course.</value>
+	</data>
+	<data name="ATN_ANNOTATION_LATE" xml:space="preserve">
+		<value>Has been late multiple times.</value>
+	</data>
+	<data name="ATN_ANNOTATION_MISSED" xml:space="preserve">
+		<value>Not admitted to take exam due to too many missed sessions.</value>
+	</data>
+	<data name="ATN_ANNOTATION_NOCREDIT" xml:space="preserve">
+		<value>No credit points accounted due to failed exam.</value>
+	</data>
+	<data name="ATN_ANNOTATION_ORAL" xml:space="preserve">
+		<value>Oral exam.</value>
+	</data>
+	<data name="ATN_ANNOTATION_REGISTERED" xml:space="preserve">
+		<value>Registered for this class during running semester.</value>
+	</data>
+	<data name="ATN_ANNOTATION_THESIS" xml:space="preserve">
+		<value>Has requested to write a thesis on the topic of this course.</value>
+	</data>
+	<data name="ATN_CHAR_NAME_ABRAHAM" xml:space="preserve">
+		<value>Prof. Goldfels, Abraham</value>
+	</data>
+	<data name="ATN_CHAR_NAME_HARRISON" xml:space="preserve">
+		<value>O'DONNELL, HARRISON</value>
+	</data>
+	<data name="ATN_CHAR_NAME_JULIET" xml:space="preserve">
+		<value>KERRINGTON, JULIET</value>
+	</data>
+	<data name="ATN_CHAR_NAME_THEMBA" xml:space="preserve">
+		<value>VAN BİLJON, THEMBA</value>
+	</data>
+	<data name="ATN_COURSE_APPLIEDPHYSICS" xml:space="preserve">
+		<value>Applied Physics</value>
+	</data>
+	<data name="ATN_COURSE_BIOLOGY" xml:space="preserve">
+		<value>Biology</value>
+	</data>
+	<data name="ATN_COURSE_BIOTECH" xml:space="preserve">
+		<value>Bio Technology</value>
+	</data>
+	<data name="ATN_COURSE_BIZLAW" xml:space="preserve">
+		<value>Business Law</value>
+	</data>
+	<data name="ATN_COURSE_CHEMISTRY" xml:space="preserve">
+		<value>Chemistry</value>
+	</data>
+	<data name="ATN_COURSE_COMPUTERSCIENCE" xml:space="preserve">
+		<value>Computer Science</value>
+	</data>
+	<data name="ATN_COURSE_CRIMINALLAW" xml:space="preserve">
+		<value>Criminal Law</value>
+	</data>
+	<data name="ATN_COURSE_ENVTECH" xml:space="preserve">
+		<value>Environmental Technology</value>
+	</data>
+	<data name="ATN_COURSE_GENERALLAW" xml:space="preserve">
+		<value>General Law</value>
+	</data>
+	<data name="ATN_COURSE_MEDIADESIGN" xml:space="preserve">
+		<value>Media Design</value>
+	</data>
+	<data name="ATN_COURSE_MEDIAETHICS" xml:space="preserve">
+		<value>Media Ethics</value>
+	</data>
+	<data name="ATN_COURSE_MEDIAMANAGEMENT" xml:space="preserve">
+		<value>Media Management</value>
+	</data>
+	<data name="ATN_COURSE_MEDIATECH" xml:space="preserve">
+		<value>Media Technics</value>
+	</data>
+	<data name="ATN_COURSE_MEDICINETECH" xml:space="preserve">
+		<value>Medicine Technology</value>
+	</data>
+	<data name="ATN_COURSE_PHYSICS" xml:space="preserve">
+		<value>Physics</value>
+	</data>
+	<data name="ATN_DEPARTMENT_LAW" xml:space="preserve">
+		<value>Law</value>
+	</data>
+	<data name="ATN_DEPARTMENT_MANAGEMENT" xml:space="preserve">
+		<value>Management</value>
+	</data>
+	<data name="ATN_DEPARTMENT_MEDIA" xml:space="preserve">
+		<value>Media</value>
+	</data>
+	<data name="ATN_DEPARTMENT_SCIENCES" xml:space="preserve">
+		<value>Natural and Computer Sciences</value>
+	</data>
+	<data name="ATN_DEPARTMENT_TECHNOLOGY" xml:space="preserve">
+		<value>Technology</value>
+	</data>
+	<data name="ATN_GRADE_A" xml:space="preserve">
+		<value>A</value>
+	</data>
+	<data name="ATN_GRADE_B" xml:space="preserve">
+		<value>B</value>
+	</data>
+	<data name="ATN_GRADE_C" xml:space="preserve">
+		<value>C</value>
+	</data>
+	<data name="ATN_GRADE_D" xml:space="preserve">
+		<value>D</value>
+	</data>
+	<data name="ATN_GRADE_FAILED" xml:space="preserve">
+		<value>FAILED</value>
+	</data>
+	<data name="ATN_HEADER_BACK" xml:space="preserve">
+		<value>Go to previous step.</value>
+	</data>
+	<data name="ATN_HEADER_INSTRUCTION" xml:space="preserve">
+		<value>Pick a class by completing the three step wizard below.</value>
+	</data>
+	<data name="ATN_HEADER_SELECTION" xml:space="preserve">
+		<value>You have selected:</value>
+	</data>
+	<data name="ATN_HEADER_SHOWING" xml:space="preserve">
+		<value>Showing:</value>
+	</data>
+	<data name="ATN_HEADER_STEP1" xml:space="preserve">
+		<value>STEP 1: PLEASE SELECT A SEMESTER</value>
+	</data>
+	<data name="ATN_HEADER_STEP2" xml:space="preserve">
+		<value>STEP 2: PLEASE SELECT A DEPARTMENT</value>
+	</data>
+	<data name="ATN_HEADER_STEP3" xml:space="preserve">
+		<value>STEP 3: PLEASE SELECT A CLASS</value>
+	</data>
+	<data name="ATN_HEADER_TITLE" xml:space="preserve">
+		<value>ISUCAL - Attendee List</value>
+	</data>
+	<data name="ATN_HEADER_WELCOME" xml:space="preserve">
+		<value>Welcome to the Internal Stelligan University Class Attendee List system.</value>
+	</data>
+	<data name="ATN_SELECTION_ATTENDEES" xml:space="preserve">
+		<value>attendees in</value>
+	</data>
+	<data name="ATN_SELECTION_CLASSNO" xml:space="preserve">
+		<value>Class number</value>
+	</data>
+	<data name="ATN_SELECTION_DEPARTMENT" xml:space="preserve">
+		<value>Department</value>
+	</data>
+	<data name="ATN_SELECTION_LECTURER" xml:space="preserve">
+		<value>Lecturer</value>
+	</data>
+	<data name="ATN_SELECTION_SEMESTER" xml:space="preserve">
+		<value>Semester</value>
+	</data>
+	<data name="ATN_SEMESTER_SS15" xml:space="preserve">
+		<value>Summer Semester 2015</value>
+	</data>
+	<data name="ATN_SEMESTER_SS16" xml:space="preserve">
+		<value>Summer Semester 2016</value>
+	</data>
+	<data name="ATN_SEMESTER_WS1516" xml:space="preserve">
+		<value>Winter Semester 2015/16</value>
+	</data>
+	<data name="ATN_SEMESTER_WS1617" xml:space="preserve">
+		<value>Winter Semester 2016/17</value>
+	</data>
+	<data name="ATN_STUDENT_ANNOTATION" xml:space="preserve">
+		<value>Annotation</value>
+	</data>
+	<data name="ATN_STUDENT_GRADE" xml:space="preserve">
+		<value>Grade</value>
+	</data>
+	<data name="ATN_STUDENT_GUEST" xml:space="preserve">
+		<value>(Guest)</value>
+	</data>
+	<data name="ATN_STUDENT_NUMBER" xml:space="preserve">
+		<value>Student number</value>
+	</data>
+	<data name="ATN_STUDENT_NUMBER_NA" xml:space="preserve">
+		<value>n/a</value>
+	</data>
+	<data name="ATN_TITLE_PROF" xml:space="preserve">
+		<value>Prof.</value>
+	</data>
+	<data name="ATN_TITLE_PROFDR" xml:space="preserve">
+		<value>Prof. Dr.</value>
+	</data>
+	<data name="COMMA_DELIMITER" xml:space="preserve">
+		<value>,</value>
+	</data>
+	<data name="COMMENTARY_CONNECTION_LOST" xml:space="preserve">
+		<value>Orwell has lost the connection to the main server.</value>
+	</data>
+	<data name="COMMENTARY_CONNECTION_REESTABLISHED" xml:space="preserve">
+		<value>The connection to the main server has been re-established.</value>
+	</data>
+	<data name="COMMENTARY_CONTINUE" xml:space="preserve">
+		<value>CONTINUE</value>
+	</data>
+	<data name="COMMENTARY_DATACHUNK_UPLOAD_REMAINING" xml:space="preserve">
+		<value>1 datachunk upload remaining.</value>
+	</data>
+	<data name="COMMENTARY_DATACHUNK_UPLOADS_REMAINING" xml:space="preserve">
+		<value>{0} veri bloğu yüklemesi kaldı.</value>
+	</data>
+	<data name="COMMENTARY_DATACHUNK_UPLOADS_REMAINING_MOBILE" xml:space="preserve">
+		<value>Uploads remaining: {0}</value>
+	</data>
+	<data name="COMMENTARY_NOTICE" xml:space="preserve">
+		<value>Notice</value>
+	</data>
+	<data name="COMMENTARY_OBJECTIVE" xml:space="preserve">
+		<value>Objective:</value>
+	</data>
+	<data name="COMMENTARY_OBJECTIVE_SOLVED" xml:space="preserve">
+		<value>Objective solved</value>
+	</data>
+	<data name="COMMENTARY_OBJECTIVE_SOLVED2" xml:space="preserve">
+		<value>New Objective:</value>
+	</data>
+	<data name="COMMENTARY_WARNING" xml:space="preserve">
+		<value>Warning</value>
+	</data>
+	<data name="COMMUNITY_TRANSLATION_NOTIFICATION" xml:space="preserve">
+		<value>Translated by the community.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_CONFLICT" xml:space="preserve">
+		<value>There is a conflict with another Datachunk in {0}.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_CONFLICT_IN_THIS_DOCUMENT" xml:space="preserve">
+		<value>There is a conflict with another Datachunk in this document.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_CONFLICT_SOLVED" xml:space="preserve">
+		<value>A conflict with another Datachunk in {0} was already solved.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_CONFLICT_SOLVED_IN_THIS_DOCUMENT" xml:space="preserve">
+		<value>A conflict with another Datachunk in this document was already solved.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_CONFLICTING" xml:space="preserve">
+		<value>Conflicting data</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_DIALOGUE_CONFLICT" xml:space="preserve">
+		<value>There is a conflict with another Datachunk in a communication.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_DIALOGUE_CONFLICT_SOLVED" xml:space="preserve">
+		<value>A conflict with another datachunk in a communication was already solved.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_DISABLE" xml:space="preserve">
+		<value>Disable</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_DISABLED" xml:space="preserve">
+		<value>Data disabled</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_ENABLE" xml:space="preserve">
+		<value>Enable</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_EXPIRED" xml:space="preserve">
+		<value>Data expired</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_INVALID" xml:space="preserve">
+		<value>Data invalid</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_MORE_PRECISE" xml:space="preserve">
+		<value>More precise data was submitted.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_NEW_PORTRAIT" xml:space="preserve">
+		<value>new portrait</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_NEW_PROFILE" xml:space="preserve">
+		<value>Create new profile</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_ONE_CONFLICT_UNKNOWN" xml:space="preserve">
+		<value>There is a conflict with an unknown Datachunk.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_ONE_CONFLICT_UNKNOWN_SOLVED" xml:space="preserve">
+		<value>A conflict with an unknown Datachunk was already solved.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_PROFILE_UPDATE" xml:space="preserve">
+		<value>Profile update</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_RELATED_PERSONS" xml:space="preserve">
+		<value>Related Profiles Update</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_SEVERAL_CONFLICTS_UNKNOWN" xml:space="preserve">
+		<value>{0} bilinmeyen Veri Bloğu ile çelişki var.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_SEVERAL_CONFLICTS_UNKNOWN_SOLVED" xml:space="preserve">
+		<value>{0} bilinmeyen Veri Bloğu ile çelişki zaten çözüldü.</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_SHOW_CONFLICT" xml:space="preserve">
+		<value>SHOW CONFLICT</value>
+	</data>
+	<data name="DATACHUNK_TOOLTIP_SUBMITTED" xml:space="preserve">
+		<value>Data submitted</value>
+	</data>
+	<data name="DATE_FORMAT_LONG" xml:space="preserve">
+		<value>MMMM dd, yyyy</value>
+	</data>
+	<data name="DATE_FORMAT_SHORT" xml:space="preserve">
+		<value>MMM dd</value>
+	</data>
+	<data name="DEBRIEFING_GLOBAL_LEARNINGS" xml:space="preserve">
+		<value>Global</value>
+	</data>
+	<data name="DEBRIEFING_INTRO" xml:space="preserve">
+		<value>Based on the data you submitted we have learned the following:</value>
+	</data>
+	<data name="DEBRIEFING_MAIN_MENU" xml:space="preserve">
+		<value>Main Menu</value>
+	</data>
+	<data name="DEBRIEFING_NEXT_DAY" xml:space="preserve">
+		<value>next day</value>
+	</data>
+	<data name="DEBRIEFING_SUMMARY_DAY" xml:space="preserve">
+		<value>Summary Day {0}</value>
+	</data>
+	<data name="DEBRIEFING_TARGET_PERSON" xml:space="preserve">
+		<value>Target Person</value>
+	</data>
+	<data name="DOCTYPE_COMMUNICATION" xml:space="preserve">
+		<value>communication</value>
+	</data>
+	<data name="DOCUMENT_DROP_TOOLTIP_DROP_HERE" xml:space="preserve">
+		<value>Drop Here To</value>
+	</data>
+	<data name="DOCUMENT_DROP_TOOLTIP_INSERT_DATA" xml:space="preserve">
+		<value>Insert Data</value>
+	</data>
+	<data name="INFLUENCER_ANTITHESIS" xml:space="preserve">
+		<value>Antithesis</value>
+	</data>
+	<data name="INFLUENCER_DATA_SPREAD" xml:space="preserve">
+		<value>Spread</value>
+	</data>
+	<data name="INFLUENCER_DATA_UPLOADED" xml:space="preserve">
+		<value>Data uploaded</value>
+	</data>
+	<data name="INFLUENCER_DATA_UPLOADING" xml:space="preserve">
+		<value>Data uploading</value>
+	</data>
+	<data name="INFLUENCER_FOLLOWERS" xml:space="preserve">
+		<value>Followers</value>
+	</data>
+	<data name="INFLUENCER_NARRATIVES" xml:space="preserve">
+		<value>Narratives</value>
+	</data>
+	<data name="INFLUENCER_NO_DATA" xml:space="preserve">
+		<value>No data available.</value>
+	</data>
+	<data name="INFLUENCER_THE_PEOPLES_VOICE" xml:space="preserve">
+		<value>The People's Voice</value>
+	</data>
+	<data name="INFLUENCER_THESIS" xml:space="preserve">
+		<value>Thesis</value>
+	</data>
+	<data name="INFLUENCER_TOOL_BUTTON_NO_DASHES" xml:space="preserve">
+		<value>Influencer</value>
+	</data>
+	<data name="INGAME_MENU_MOBILE_DELETE" xml:space="preserve">
+		<value>Sil</value>
+	</data>
+	<data name="INGAME_MENU_MOBILE_DELETE_PROFILE" xml:space="preserve">
+		<value>Delete Profile</value>
+	</data>
+	<data name="INGAME_MENU_MOBILE_FEEDBACK" xml:space="preserve">
+		<value>Geribildirim Ver</value>
+	</data>
+	<data name="INGAME_MENU_MOBILE_RATEAPP" xml:space="preserve">
+		<value>Uygulamayı Değerlendir</value>
+	</data>
+	<data name="INGAME_MENU_MOBILE_SELECT_EPISODE" xml:space="preserve">
+		<value>Bölüm Seç</value>
+	</data>
+	<data name="INGAMEMENU_ACTIVE_OBJECTIVES" xml:space="preserve">
+		<value>Active</value>
+	</data>
+	<data name="INGAMEMENU_CLOSE" xml:space="preserve">
+		<value>Close</value>
+	</data>
+	<data name="INGAMEMENU_COMPLETED_OBJECTIVES" xml:space="preserve">
+		<value>Completed</value>
+	</data>
+	<data name="INGAMEMENU_DATE_FORMAT" xml:space="preserve">
+		<value>MMM dd
+ yyyy</value>
+	</data>
+	<data name="INGAMEMENU_DEGREE_CENTIGRADE" xml:space="preserve">
+		<value>°C</value>
+	</data>
+	<data name="INGAMEMENU_EXHIBITON_MODE" xml:space="preserve">
+		<value>Sergi Modu</value>
+	</data>
+	<data name="INGAMEMENU_LOG_OUT" xml:space="preserve">
+		<value>Log Out</value>
+	</data>
+	<data name="INGAMEMENU_OBJECTIVE_NEW" xml:space="preserve">
+		<value>New Objective</value>
+	</data>
+	<data name="INGAMEMENU_OBJECTIVES" xml:space="preserve">
+		<value>Objectives</value>
+	</data>
+	<data name="INGAMEMENU_QUIT" xml:space="preserve">
+		<value>Quit Orwell</value>
+	</data>
+	<data name="INGAMEMENU_QUOTE" xml:space="preserve">
+		<value>Quote of the Day</value>
+	</data>
+	<data name="INPUT_KEY_ESC" xml:space="preserve">
+		<value>ESC</value>
+	</data>
+	<data name="INSIDER_DEVICE_OFFLINE" xml:space="preserve">
+		<value>Device offline</value>
+	</data>
+	<data name="INSIDER_DEVICE_TYPE_NOTEBOOK" xml:space="preserve">
+		<value>Notebook</value>
+	</data>
+	<data name="INSIDER_DEVICE_TYPE_PC" xml:space="preserve">
+		<value>PC</value>
+	</data>
+	<data name="INSIDER_DEVICE_TYPE_PHONE" xml:space="preserve">
+		<value>Phone</value>
+	</data>
+	<data name="INSIDER_DEVICES_TAB" xml:space="preserve">
+		<value>Devices</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_BROWSERHISTORY" xml:space="preserve">
+		<value>History</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_CHAT" xml:space="preserve">
+		<value>Chat</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_CONTACTS" xml:space="preserve">
+		<value>Contacts</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_DESKTOP" xml:space="preserve">
+		<value>Desktop</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_GEO" xml:space="preserve">
+		<value>Geolocation</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_MAIL" xml:space="preserve">
+		<value>Mail</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_NOTE" xml:space="preserve">
+		<value>Note</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_PICTURE" xml:space="preserve">
+		<value>Picture</value>
+	</data>
+	<data name="INSIDER_DOCTYPE_TEXT" xml:space="preserve">
+		<value>Text</value>
+	</data>
+	<data name="INSIDER_MAIL_SUBJECT" xml:space="preserve">
+		<value>Subject</value>
+	</data>
+	<data name="INSIDER_TOOL_BUTTON" xml:space="preserve">
+		<value>–– Insider ––</value>
+	</data>
+	<data name="INSIDER_TOOL_BUTTON_NO_DASHES" xml:space="preserve">
+		<value>Insider</value>
+	</data>
+	<data name="INTRO_HOLD_KEY_TO_SKIP" xml:space="preserve">
+		<value>Hold {0} to skip</value>
+	</data>
+	<data name="INTRO_HOLD_TO_SKIP" xml:space="preserve">
+		<value>Hold to skip</value>
+	</data>
+	<data name="INTRO_PLAYBACK_ERROR" xml:space="preserve">
+		<value>Intro playback error. Please check Steam community board for help.</value>
+	</data>
+	<data name="INTRO_PRESS_KEY_TO_SKIP" xml:space="preserve">
+		<value>Press {0} to skip</value>
+	</data>
+	<data name="INTRO_SKIPPING_INTRO" xml:space="preserve">
+		<value>Skipping intro</value>
+	</data>
+	<data name="LICENSE_INFO_NEXT_PAGE" xml:space="preserve">
+		<value>Next</value>
+	</data>
+	<data name="LICENSE_INFO_PREVIOUS_PAGE" xml:space="preserve">
+		<value>Previous</value>
+	</data>
+	<data name="LISTENER_BCC" xml:space="preserve">
+		<value>BCC</value>
+	</data>
+	<data name="LISTENER_BOOKMARKS_NO_COMMUNICATIONS" xml:space="preserve">
+		<value>- no communications recorded -</value>
+	</data>
+	<data name="LISTENER_BOOKMARKS_NO_COMMUNICATIONS_NO_DASHES" xml:space="preserve">
+		<value>no communications recorded</value>
+	</data>
+	<data name="LISTENER_BOOKMARKS_TAB" xml:space="preserve">
+		<value>Communications</value>
+	</data>
+	<data name="LISTENER_CALL_ACTIVE" xml:space="preserve">
+		<value>active</value>
+	</data>
+	<data name="LISTENER_CALL_INACTIVE" xml:space="preserve">
+		<value>inactive</value>
+	</data>
+	<data name="LISTENER_CALLING" xml:space="preserve">
+		<value>calling</value>
+	</data>
+	<data name="LISTENER_CC" xml:space="preserve">
+		<value>CC</value>
+	</data>
+	<data name="LISTENER_CONNECTION_ENDED" xml:space="preserve">
+		<value>connection ended</value>
+	</data>
+	<data name="LISTENER_CONNECTION_ESTABLISHED" xml:space="preserve">
+		<value>connection established</value>
+	</data>
+	<data name="LISTENER_DATE" xml:space="preserve">
+		<value>Date</value>
+	</data>
+	<data name="LISTENER_DOCTYPE_CALL" xml:space="preserve">
+		<value>Phone call</value>
+	</data>
+	<data name="LISTENER_DOCTYPE_CHAT" xml:space="preserve">
+		<value>Chat</value>
+	</data>
+	<data name="LISTENER_DOCTYPE_MAIL" xml:space="preserve">
+		<value>Mail</value>
+	</data>
+	<data name="LISTENER_FROM" xml:space="preserve">
+		<value>From</value>
+	</data>
+	<data name="LISTENER_INCOMING_SESSION" xml:space="preserve">
+		<value>Incoming Session</value>
+	</data>
+	<data name="LISTENER_OUTGOING_SESSION" xml:space="preserve">
+		<value>Outgoing Session</value>
+	</data>
+	<data name="LISTENER_RECORDED_EARLIER" xml:space="preserve">
+		<value>recorded earlier</value>
+	</data>
+	<data name="LISTENER_RECORDING_STARTED" xml:space="preserve">
+		<value>Recording started</value>
+	</data>
+	<data name="LISTENER_RECORDINGS_AND" xml:space="preserve">
+		<value>and</value>
+	</data>
+	<data name="LISTENER_RECORDINGS_TAB" xml:space="preserve">
+		<value>Recording</value>
+	</data>
+	<data name="LISTENER_SESSION" xml:space="preserve">
+		<value>Session</value>
+	</data>
+	<data name="LISTENER_SESSION_CLOSED" xml:space="preserve">
+		<value>Session closed.</value>
+	</data>
+	<data name="LISTENER_SESSION_IN_PROGRESS" xml:space="preserve">
+		<value>Session in progress ...</value>
+	</data>
+	<data name="LISTENER_SUBJECT" xml:space="preserve">
+		<value>Subject</value>
+	</data>
+	<data name="LISTENER_TIMESTAMP_1MIN_AGO" xml:space="preserve">
+		<value>1 min ago</value>
+	</data>
+	<data name="LISTENER_TIMESTAMP_2MIN_AGO" xml:space="preserve">
+		<value>2 min ago</value>
+	</data>
+	<data name="LISTENER_TIMESTAMP_3MIN_AGO" xml:space="preserve">
+		<value>3 min ago</value>
+	</data>
+	<data name="LISTENER_TIMESTAMP_4MIN_AGO" xml:space="preserve">
+		<value>4 min ago</value>
+	</data>
+	<data name="LISTENER_TIMESTAMP_5MIN_AGO" xml:space="preserve">
+		<value>5 min ago</value>
+	</data>
+	<data name="LISTENER_TIMESTAMP_EARLIER" xml:space="preserve">
+		<value>earlier</value>
+	</data>
+	<data name="LISTENER_TIMESTAMP_JUST_NOW" xml:space="preserve">
+		<value>just now</value>
+	</data>
+	<data name="LISTENER_TO" xml:space="preserve">
+		<value>To</value>
+	</data>
+	<data name="LISTENER_TOOL_BUTTON" xml:space="preserve">
+		<value>–– Listener ––</value>
+	</data>
+	<data name="LISTENER_TOOL_BUTTON_NO_DASHES" xml:space="preserve">
+		<value>Listener</value>
+	</data>
+	<data name="LOG_OUT_MOBILE_TEXT" xml:space="preserve">
+		<value>Çalışmayı bitirmek için buraya dokunun</value>
+	</data>
+	<data name="LOG_TAB_CAPTION" xml:space="preserve">
+		<value>Günlük</value>
+	</data>
+	<data name="MAINMENU_ALL_PROFILES_OCCUPIED" xml:space="preserve">
+		<value>All profile slots occupied</value>
+	</data>
+	<data name="MAINMENU_BACK" xml:space="preserve">
+		<value>back</value>
+	</data>
+	<data name="MAINMENU_LOADING" xml:space="preserve">
+		<value>Loading</value>
+	</data>
+	<data name="MAINMENU_LOG_IN" xml:space="preserve">
+		<value>Log In</value>
+	</data>
+	<data name="MAINMENU_PLEASE_CREATE_PROFILE" xml:space="preserve">
+		<value>Please create a profile:</value>
+	</data>
+	<data name="MAINMENU_PROFILE_CREATE" xml:space="preserve">
+		<value>Create</value>
+	</data>
+	<data name="MAINMENU_PROFILE_DAYS_ON_DUTY" xml:space="preserve">
+		<value>Days on duty:</value>
+	</data>
+	<data name="MAINMENU_PROFILE_DELETE_PROFILE" xml:space="preserve">
+		<value>Delete profile</value>
+	</data>
+	<data name="MAINMENU_PROFILE_DELETE_PROFILE_BUTTON" xml:space="preserve">
+		<value>Delete Profile</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EMPTY" xml:space="preserve">
+		<value>Empty Profile</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_1" xml:space="preserve">
+		<value>Episode 1</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_2" xml:space="preserve">
+		<value>Episode 2</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_3" xml:space="preserve">
+		<value>Episode 3</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_4" xml:space="preserve">
+		<value>Episode 4</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_5" xml:space="preserve">
+		<value>Episode 5</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_NUMBER_FIVE_SPELLED" xml:space="preserve">
+		<value>Five</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_NUMBER_FOUR_SPELLED" xml:space="preserve">
+		<value>Four</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_NUMBER_ONE_SPELLED" xml:space="preserve">
+		<value>One</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_NUMBER_THREE_SPELLED" xml:space="preserve">
+		<value>Three</value>
+	</data>
+	<data name="MAINMENU_PROFILE_EPISODE_NUMBER_TWO_SPELLED" xml:space="preserve">
+		<value>Two</value>
+	</data>
+	<data name="MAINMENU_PROFILE_ERROR_AGREE_TERMS" xml:space="preserve">
+		<value>You must agree to the stated terms.</value>
+	</data>
+	<data name="MAINMENU_PROFILE_ERROR_CHOOSE_PICTURE" xml:space="preserve">
+		<value>Please choose a profile picture.</value>
+	</data>
+	<data name="MAINMENU_PROFILE_ERROR_ENTER_NAME" xml:space="preserve">
+		<value>Please enter a name.</value>
+	</data>
+	<data name="MAINMENU_PROFILE_ERROR_INVALID_MAIL" xml:space="preserve">
+		<value>Please enter a valid email address.</value>
+	</data>
+	<data name="MAINMENU_PROFILE_FINISH_EPISODES_TO_UNLOCK" xml:space="preserve">
+		<value>Complete all episodes to unlock episode selection</value>
+	</data>
+	<data name="MAINMENU_PROFILE_INCOMPATIBLE" xml:space="preserve">
+		<value>Incompatible profile. Please update Orwell.</value>
+	</data>
+	<data name="MAINMENU_PROFILE_LOAD_EPISODE" xml:space="preserve">
+		<value>Load Episode {0}</value>
+	</data>
+	<data name="MAINMENU_PROFILE_LOAD_EPISODE_BUTTON" xml:space="preserve">
+		<value>Load Episode</value>
+	</data>
+	<data name="MAINMENU_PROFILE_NO_KEEP_PROFILE" xml:space="preserve">
+		<value>No, keep profile</value>
+	</data>
+	<data name="MAINMENU_PROFILE_NO_KEEP_PROGRESS" xml:space="preserve">
+		<value>No, keep progress</value>
+	</data>
+	<data name="MAINMENU_PROFILE_ORWELL_ID" xml:space="preserve">
+		<value>Orwell-Kimlik:</value>
+	</data>
+	<data name="MAINMENU_PROFILE_PROFILENUMBER_FOUR" xml:space="preserve">
+		<value>Profile 04</value>
+	</data>
+	<data name="MAINMENU_PROFILE_PROFILENUMBER_ONE" xml:space="preserve">
+		<value>Profile 01</value>
+	</data>
+	<data name="MAINMENU_PROFILE_PROFILENUMBER_THREE" xml:space="preserve">
+		<value>Profile 03</value>
+	</data>
+	<data name="MAINMENU_PROFILE_PROFILENUMBER_TWO" xml:space="preserve">
+		<value>Profile 02</value>
+	</data>
+	<data name="MAINMENU_PROFILE_SELECT_EPISODE" xml:space="preserve">
+		<value>Please select an episode. All subsequent progress will be lost.</value>
+	</data>
+	<data name="MAINMENU_PROFILE_SUBSEQUENT_PROGRESS_LOST" xml:space="preserve">
+		<value>All subsequent progress of this profile will be lost.</value>
+	</data>
+	<data name="MAINMENU_PROFILE_SURE_DELETE_PROFILE" xml:space="preserve">
+		<value>Are you sure you want to delete this profile?</value>
+	</data>
+	<data name="MAINMENU_PROFILE_SURE_LOAD_THIS_EPISODE" xml:space="preserve">
+		<value>Are you sure you want to load this episode?</value>
+	</data>
+	<data name="MAINMENU_PROFILE_YES_DELETE_PROFILE" xml:space="preserve">
+		<value>Yes, delete profile</value>
+	</data>
+	<data name="MAINMENU_PROFILE_YES_LOAD_EPISODE" xml:space="preserve">
+		<value>Yes, load episode</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_BE_DILIGENT" xml:space="preserve">
+		<value>BE DILIGENT,</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_CANCEL" xml:space="preserve">
+		<value>Cancel</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_CONGRATS" xml:space="preserve">
+		<value>CONGRATULATIONS,</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_DID_YOU_KNOW" xml:space="preserve">
+		<value>DID YOU KNOW?</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_EMAILINFO" xml:space="preserve">
+		<value>Entering your email address will allow us to inform you about updates on your Orwell case, potential new cases and monthly e-newsletters about news, related products and more. Your information will be handled with care and not used for any other purpose.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_EMAILINFO_UNSUBSCRIBE" xml:space="preserve">
+		<value>If you wish to unsubscribe, you can do so at any time by clicking the unsubscribe notice at the end of every e-newsletter we send to your email address.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_ENTER_EMAIL" xml:space="preserve">
+		<value>Enter email address (optional)</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_ENTER_EMAIL_ADDRESS" xml:space="preserve">
+		<value>YOU MAY NOW ENTER YOUR EMAIL ADDRESS:</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_ENTER_NAME" xml:space="preserve">
+		<value>Enter your name</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_ETHICAL_CODEX" xml:space="preserve">
+		<value>ORWELL FOLLOWS THE PRINCIPLES OF THE ETHICAL CODEX.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_FINISH" xml:space="preserve">
+		<value>Finish</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_FIRST_APPLICANT" xml:space="preserve">
+		<value>YOU ARE THE FIRST ACCEPTED APPLICANT.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_FOR_ENSURING_SAFETY" xml:space="preserve">
+		<value>FOR ENSURING THE SAFETY OF THE NATION'S PEOPLE.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_GO_ONLINE_TO_SIGN_UP" xml:space="preserve">
+		<value>GO ONLINE TO SIGN-UP FOR OUR NEWSLETTER.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_I_AGREE_TO_THE_TERMS" xml:space="preserve">
+		<value>I agree to the terms stated above.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_NAME" xml:space="preserve">
+		<value>Name</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_NEXT_STEP" xml:space="preserve">
+		<value>Next step</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_NO_CONNECTION" xml:space="preserve">
+		<value>NO CONNECTION</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_OPTIONAL" xml:space="preserve">
+		<value>* optional</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_PLEASE_AGREE" xml:space="preserve">
+		<value>PLEASE AGREE TO THE FOLLOWING TERMS:</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_PLEASE_WAIT" xml:space="preserve">
+		<value>Please Wait</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_POLICY_UNDER_16" xml:space="preserve">
+		<value>As part of our privacy policy and term, we do not collect the data of those under the age of 16. You may proceed with your mission.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_PREVIOUS_STEP" xml:space="preserve">
+		<value>Previous step</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_PRIVACY_LINK" xml:space="preserve">
+		<value>Show Privacy Policy in Browser</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_REGISTERED_PROFILES" xml:space="preserve">
+		<value>KABUL EDİLEN {0} ADAYDAN 1'İSİNİZ.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_REGISTRATION_COMPLETE" xml:space="preserve">
+		<value>YOUR REGISTRATION IS NOW COMPLETE.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_SELECT_PROFILE_PICTURE" xml:space="preserve">
+		<value>Select a profile picture</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_SEVERE_IMPACT" xml:space="preserve">
+		<value>YOUR WORK HAS SEVERE IMPACT.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_STEP1" xml:space="preserve">
+		<value>Step 01/03</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_STEP2" xml:space="preserve">
+		<value>Step 02/03</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_STEP3" xml:space="preserve">
+		<value>Step 03/03</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_TERMS" xml:space="preserve">
+		<value>· I am aware that my actions may severely impact the lives of citizens of The Nation.
+ · I will work thoroughly and judge objectively in the best of my belief.
+ · While working I will adhere to the laws and jurisdiction of The Nation.</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_THANK_YOU" xml:space="preserve">
+		<value>THANK YOU</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_UNDER_16" xml:space="preserve">
+		<value>I am under 16 years old</value>
+	</data>
+	<data name="MAINMENU_PROFILECREATION_YOU_HAVE_BEEN_SELECTED" xml:space="preserve">
+		<value>YOU HAVE BEEN SELECTED FOR THE 
+ ORWELL TEST PHASE.</value>
+	</data>
+	<data name="MAINMENU_PROFILEOPTIONS" xml:space="preserve">
+		<value>Profile Options</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_AVAILABLE" xml:space="preserve">
+		<value>Eşleştirme için aşağıdaki araştırmacılar mevcut. Varsa, eşleştirmek istediğiniz araştırmacının profilini seçin.</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_CASE" xml:space="preserve">
+		<value>Atanan Dava: Bonton Bombalamaları</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_DISABLE_PAIRING" xml:space="preserve">
+		<value>Eşleştirmeyi Devre Dışı Bırak</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_NONE" xml:space="preserve">
+		<value>None</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_PAIRING" xml:space="preserve">
+		<value>Ajan Araştırmacı Eşleştirme</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_RECOMMENDATION" xml:space="preserve">
+		<value>"Note: We strongly recommend pairing with an investigator for an enhanced user experience.</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_THANK_YOU" xml:space="preserve">
+		<value>Ofis'in çağrısına kulak verdiğiniz için teşekkürler.</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_UNAVAILABLE" xml:space="preserve">
+		<value>Şu anda eşleştirme için hiçbir araştırmacı mevcut değil. Lütfen normal Orwell programına bakın.</value>
+	</data>
+	<data name="MAINMENU_RECRUITER_WELCOME" xml:space="preserve">
+		<value>Welcome, Agent!</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_AUDIO" xml:space="preserve">
+		<value>Audio</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_CALL_TEXT_SPEED" xml:space="preserve">
+		<value>Phone call text speed</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_CREDITS" xml:space="preserve">
+		<value>Credits</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_FULLSCREEN" xml:space="preserve">
+		<value>Full screen</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_GAMEPLAY" xml:space="preserve">
+		<value>Gameplay</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_LANGUAGE" xml:space="preserve">
+		<value>Language</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_OFF" xml:space="preserve">
+		<value>off</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_ON" xml:space="preserve">
+		<value>on</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_SETTINGS" xml:space="preserve">
+		<value>Settings</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_VIDEO" xml:space="preserve">
+		<value>Video</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_VOLUME_MUSIC" xml:space="preserve">
+		<value>Volume Music</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_VOLUME_SOUND" xml:space="preserve">
+		<value>Volume Sound Effects</value>
+	</data>
+	<data name="MAINMENU_SETTINGS_VOLUME_VOICEOVER" xml:space="preserve">
+		<value>Volume Voice Over</value>
+	</data>
+	<data name="MAINMENU_STATUS_LOGGING_IN" xml:space="preserve">
+		<value>Logging in</value>
+	</data>
+	<data name="MAINMENU_STATUS_PROCESSING" xml:space="preserve">
+		<value>Processing</value>
+	</data>
+	<data name="MAINMENU_STATUS_PROFILE_SETUP" xml:space="preserve">
+		<value>Setting up profile</value>
+	</data>
+	<data name="MAINMENU_WELCOME" xml:space="preserve">
+		<value>WELCOME,</value>
+	</data>
+	<data name="MAINMENU_WELCOME_THANK_YOU_FOR_SERVING" xml:space="preserve">
+		<value>THANK YOU FOR SERVING THE NATION.</value>
+	</data>
+	<data name="MAINMENU_WELCOME_WE_KEEP_AN_EYE" xml:space="preserve">
+		<value>WE KEEP AN EYE ON OUR CITIZENS.</value>
+	</data>
+	<data name="MAINMENU_WELCOME_YOUR_WORK" xml:space="preserve">
+		<value>YOUR WORK IS A CONTRIBUTION TO SAFETY.</value>
+	</data>
+	<data name="MAINMENU_YOU_HAVE_BEEN_ACCEPTED" xml:space="preserve">
+		<value>ORWELL'E
+ KABUL EDİLDİNİZ.</value>
+	</data>
+	<data name="MOBILE_COMMENTARY_TAPTOCONTINUE" xml:space="preserve">
+		<value>TAP TO CONTINUE</value>
+	</data>
+	<data name="MOBILE_HEADBAR_CARRIER" xml:space="preserve">
+		<value>NationGov 5G</value>
+	</data>
+	<data name="MOBILE_HELP_DATACHUNKS" xml:space="preserve">
+		<value>Uploading Datachunks</value>
+	</data>
+	<data name="MOBILE_HELP_DATACHUNKSIMAGES" xml:space="preserve">
+		<value>Image Datachunks work the same but have to be dragged by their handle icon in the upper left corner.</value>
+	</data>
+	<data name="MOBILE_HELP_DATACHUNKSTEXT" xml:space="preserve">
+		<value>To upload a Datachunk, tap and drag it onto the Profiler Bar at the bottom of the screen.</value>
+	</data>
+	<data name="MOBILE_HELP_FINISH" xml:space="preserve">
+		<value>Bölümü Bitir</value>
+	</data>
+	<data name="MOBILE_HELP_FINISHTEXT" xml:space="preserve">
+		<value>Once you have solved all your objectives you will be allowed to log out by tapping on the exit icon in the bottom navigation or on the Home Screen.</value>
+	</data>
+	<data name="MOBILE_HELP_GOAL" xml:space="preserve">
+		<value>Göreviniz</value>
+	</data>
+	<data name="MOBILE_HELP_GOALTEXT" xml:space="preserve">
+		<value>Your job is to find and upload data about target persons. Providing data on suspects may grant access to new related documents and help us solve the case.</value>
+	</data>
+	<data name="MOBILE_HELP_INSPECT" xml:space="preserve">
+		<value>Contents of Datachunks</value>
+	</data>
+	<data name="MOBILE_HELP_INSPECTHINT" xml:space="preserve">
+		<value>In case you are stuck, consider re-enabling deactivated Datachunks and upload them.</value>
+	</data>
+	<data name="MOBILE_HELP_INSPECTHINT_HEAD" xml:space="preserve">
+		<value>When Stuck</value>
+	</data>
+	<data name="MOBILE_HELP_INSPECTHINT_IGN" xml:space="preserve">
+		<value>Also, try to use different data in available slots to potentially find additional documents.</value>
+	</data>
+	<data name="MOBILE_HELP_INSPECTHINT_INDICATOR" xml:space="preserve">
+		<value>Refer to the document list in each tool to find loose ends via the indicators.</value>
+	</data>
+	<data name="MOBILE_HELP_INSPECTTEXT" xml:space="preserve">
+		<value>You can inspect the contents of a Datachunk by tapping it once. Tap "Disable" if you don’t want to upload the Datachunk. Tap "Enable" if you have changed your mind.</value>
+	</data>
+	<data name="MOBILE_HELP_NOTIFICATIONS" xml:space="preserve">
+		<value>Status Icons</value>
+	</data>
+	<data name="MOBILE_HELP_NOTIFICATIONSTEXT" xml:space="preserve">
+		<value>Unread documents will display with a red bar next to them.
+ 
+ As long as there are undiscovered elements (Datachunks or links to documents) in a document, a "?" will appear.
+ 
+ Available Datachunks will appear as blue icon, disabled ones as grey icon.</value>
+	</data>
+	<data name="MOBILE_HELP_NOTIFICATIONSTEXT_IGN" xml:space="preserve">
+		<value>Slots in which data can be used will appear as purple icon.</value>
+	</data>
+	<data name="MOBILE_HELP_SWIPEFORMORE" xml:space="preserve">
+		<value>Daha fazlası için kaydır</value>
+	</data>
+	<data name="MOBILE_HELP_TARGETPERSONS" xml:space="preserve">
+		<value>Switching Target Persons</value>
+	</data>
+	<data name="MOBILE_HELP_TARGETPERSONSTEXT" xml:space="preserve">
+		<value>Cycle through suspects by swiping left or right on the Profiler Bar. Select a target person concerned by the Datachunk you want to upload.
+ 
+ This works exactly the same if you've currently opened the Profiler app.</value>
+	</data>
+	<data name="MOBILE_HELP_USINGDATACHUNKS" xml:space="preserve">
+		<value>Using Data From Profiles</value>
+	</data>
+	<data name="MOBILE_HELP_USINGDATACHUNKSTEXT" xml:space="preserve">
+		<value>Some documents have slots where collected data can be used. When you come across such a slot, a data tray will automatically appear at the bottom. To use it, tap and drag a highlighted piece of data from the tray to the slot.</value>
+	</data>
+	<data name="MOBILE_HOME_HELP" xml:space="preserve">
+		<value>Yardım</value>
+	</data>
+	<data name="MOBILE_HOME_LOG" xml:space="preserve">
+		<value>Günlük</value>
+	</data>
+	<data name="MOBILE_HOME_PROFILER" xml:space="preserve">
+		<value>Profil Oluşturucu</value>
+	</data>
+	<data name="MOBILE_LISTENER_BOOKMARK_LIVE" xml:space="preserve">
+		<value>CANLI</value>
+	</data>
+	<data name="MOBILE_PROFILE_CASECLOSED" xml:space="preserve">
+		<value>DAVA KAPATILDI</value>
+	</data>
+	<data name="MOBILE_PROFILE_PROMOTION" xml:space="preserve">
+		<value>Danışmana terfi ettirildi</value>
+	</data>
+	<data name="MOBILE_PROFILE_REDACTED_INVESTIGATOR" xml:space="preserve">
+		<value>[çıkarıldı]</value>
+	</data>
+	<data name="MOBILE_PROFILE_UNDERINVESTIGATION" xml:space="preserve">
+		<value>Araştırma altında</value>
+	</data>
+	<data name="MOBILE_PROFILECREATION_CREATE_PROFILE_CREATE" xml:space="preserve">
+		<value>OLUŞTUR</value>
+	</data>
+	<data name="MOBILE_PROFILECREATION_CREATE_PROFILE_PROFILE" xml:space="preserve">
+		<value>PROFİL</value>
+	</data>
+	<data name="MOBILE_PROFILECREATION_YOU_HAVE_BEEN_SELECTED" xml:space="preserve">
+		<value>YOU HAVE BEEN SELECTED FOR THE ORWELL TEST PHASE.</value>
+	</data>
+	<data name="MOBILE_PROFILECREATION_YOU_HAVE_BEEN_SELECTED_IGN" xml:space="preserve">
+		<value>ÖZEL GÖREV İÇİN SEÇİLDİNİZ.</value>
+	</data>
+	<data name="MOBILE_PROFILER_TARGETPERSON" xml:space="preserve">
+		<value>HEDEF KİŞİ:</value>
+	</data>
+	<data name="MOBILE_PROFILERBAR_CANNOTBEUNDONE" xml:space="preserve">
+		<value>CANNOT BE UNDONE</value>
+	</data>
+	<data name="MOBILE_PROFILERBAR_DROPHERE" xml:space="preserve">
+		<value>- DROP HERE TO UPLOAD -</value>
+	</data>
+	<data name="MOBILE_PROFILERBAR_UNKNOWNCONFLICTS" xml:space="preserve">
+		<value>CONFLICTS NOT YET FOUND</value>
+	</data>
+	<data name="MOBILE_PROFILERBAR_UPLOADTOORWELL" xml:space="preserve">
+		<value>ORWELL'E YÜKLE</value>
+	</data>
+	<data name="MOBILE_SETTINGS_CURSOR_SENSITIVITY" xml:space="preserve">
+		<value>Cursor Sensitivity</value>
+	</data>
+	<data name="MOBILE_SETTINGS_LEGAL" xml:space="preserve">
+		<value>Legal Information</value>
+	</data>
+	<data name="MOBILE_SETTINGS_PRIVACY" xml:space="preserve">
+		<value>Privacy Policy</value>
+	</data>
+	<data name="NOTIFICATION_NEW_BOOKMARK" xml:space="preserve">
+		<value>New document</value>
+	</data>
+	<data name="NOTIFICATION_NEW_CALL" xml:space="preserve">
+		<value>Call intercepted</value>
+	</data>
+	<data name="NOTIFICATION_NEW_CHAT" xml:space="preserve">
+		<value>Chat intercepted</value>
+	</data>
+	<data name="NOTIFICATION_NEW_DEVICE" xml:space="preserve">
+		<value>Device access added</value>
+	</data>
+	<data name="NOTIFICATION_NEW_HOT_TICKER" xml:space="preserve">
+		<value>Breaking news</value>
+	</data>
+	<data name="NOTIFICATION_NEW_MAIL" xml:space="preserve">
+		<value>Mail intercepted</value>
+	</data>
+	<data name="NOTIFICATION_NEW_OBJECTIVE" xml:space="preserve">
+		<value>New task</value>
+	</data>
+	<data name="NOTIFICATION_NEW_TARGETPERSON" xml:space="preserve">
+		<value>New target person</value>
+	</data>
+	<data name="NOTIFICATION_NEW_TICKER" xml:space="preserve">
+		<value>News report</value>
+	</data>
+	<data name="NOTIFICATION_SOLVED_OBJECTIVE" xml:space="preserve">
+		<value>Task completed</value>
+	</data>
+	<data name="NOTIFICATION_UPDATED_DEVICE_STATE_OFFLINE" xml:space="preserve">
+		<value>Device offline</value>
+	</data>
+	<data name="NOTIFICATION_UPDATED_DEVICE_STATE_ONLINE" xml:space="preserve">
+		<value>Device online</value>
+	</data>
+	<data name="NOTIFICATION_UPDATED_INSIDER_DOCUMENT" xml:space="preserve">
+		<value>Document on device updated</value>
+	</data>
+	<data name="NOTIFICATION_UPDATED_WEATHER" xml:space="preserve">
+		<value>Weather report</value>
+	</data>
+	<data name="NOTIFICATION_UPDATED_WEBSITE" xml:space="preserve">
+		<value>Document updated</value>
+	</data>
+	<data name="OBJECTIVES_APP_NO_ACTIVE_OBJECTIVE" xml:space="preserve">
+		<value>No current objectives</value>
+	</data>
+	<data name="OBJECTIVES_APP_NO_COMPLETED_OBJECTIVE" xml:space="preserve">
+		<value>No completed objectives</value>
+	</data>
+	<data name="ORWELL_SEASONONE_TITLE" xml:space="preserve">
+		<value>Orwell: Keeping an Eye on You</value>
+	</data>
+	<data name="ORWELL_SEASONTWO_TITLE" xml:space="preserve">
+		<value>Orwell: Ignorance is Strength</value>
+	</data>
+	<data name="ORWELL_TITLE" xml:space="preserve">
+		<value>ORWELL</value>
+	</data>
+	<data name="OVERLAY_NO_CONNECTION" xml:space="preserve">
+		<value>no connection</value>
+	</data>
+	<data name="OVERLAY_NO_CONNECTION_TEXT" xml:space="preserve">
+		<value>Lost connection to Orwell servers</value>
+	</data>
+	<data name="POPUP_PROMPT_ARCHIVE_COMMUNICATION" xml:space="preserve">
+		<value>Archive for later</value>
+	</data>
+	<data name="POPUP_PROMPT_CALL_TUNE_IN" xml:space="preserve">
+		<value>Tune in</value>
+	</data>
+	<data name="POPUP_PROMPT_CALL_TUNE_IN_QUESTION" xml:space="preserve">
+		<value>Do you want to tune in now?</value>
+	</data>
+	<data name="POPUP_PROMPT_CHANGE_LANGUAGE" xml:space="preserve">
+		<value>Change language</value>
+	</data>
+	<data name="POPUP_PROMPT_CHANGE_LANGUAGE_NOTICE" xml:space="preserve">
+		<value>Do you really want to change the language and restart the app?</value>
+	</data>
+	<data name="POPUP_PROMPT_CHAT_READ_MESSAGES" xml:space="preserve">
+		<value>Read messages</value>
+	</data>
+	<data name="POPUP_PROMPT_EXHIBITION_NO" xml:space="preserve">
+		<value>Continue</value>
+	</data>
+	<data name="POPUP_PROMPT_EXHIBITION_TEXT" xml:space="preserve">
+		<value>Yetersiz aktivite tespit edildi. Orwell yeniden başlatılıyor ...</value>
+	</data>
+	<data name="POPUP_PROMPT_EXHIBITION_TITLE" xml:space="preserve">
+		<value>Sergi Modu</value>
+	</data>
+	<data name="POPUP_PROMPT_EXHIBITION_YES" xml:space="preserve">
+		<value>Restart</value>
+	</data>
+	<data name="POPUP_PROMPT_FINISH_DAY_NO" xml:space="preserve">
+		<value>No, stay logged in</value>
+	</data>
+	<data name="POPUP_PROMPT_FINISH_DAY_TEXT" xml:space="preserve">
+		<value>Bugünkü çalışmanızı bitirmek istediğinizden emin misiniz? İşlenmemiş tüm Veri Blokları süresi dolacak.</value>
+	</data>
+	<data name="POPUP_PROMPT_FINISH_DAY_TITLE" xml:space="preserve">
+		<value>FINISH WORK?</value>
+	</data>
+	<data name="POPUP_PROMPT_FINISH_DAY_YES" xml:space="preserve">
+		<value>Yes, log out</value>
+	</data>
+	<data name="POPUP_PROMPT_INCOMING_CALL" xml:space="preserve">
+		<value>Incoming Call</value>
+	</data>
+	<data name="POPUP_PROMPT_INCOMING_CHAT" xml:space="preserve">
+		<value>Incoming Chat</value>
+	</data>
+	<data name="POPUP_PROMPT_LICENSE_HEADER" xml:space="preserve">
+		<value>License Information</value>
+	</data>
+	<data name="POPUP_PROMPT_LOGOUT" xml:space="preserve">
+		<value>Log Out</value>
+	</data>
+	<data name="POPUP_PROMPT_LOGOUT_NOTICE" xml:space="preserve">
+		<value>Çıkış yapmak istediğinizden emin misiniz? Orwell neresinde kaldığınızı hatırlayacak.</value>
+	</data>
+	<data name="POPUP_PROMPT_NO" xml:space="preserve">
+		<value>No</value>
+	</data>
+	<data name="POPUP_PROMPT_PERSON_IS_CALLING" xml:space="preserve">
+		<value>{0}, {1}'i arıyor.</value>
+	</data>
+	<data name="POPUP_PROMPT_PERSON_IS_CONFERENCECALLING" xml:space="preserve">
+		<value>{0} bir konferans araması başlatıyor.</value>
+	</data>
+	<data name="POPUP_PROMPT_PERSON_IS_MESSAGING" xml:space="preserve">
+		<value>{0}, {1}'e mesaj atıyor.</value>
+	</data>
+	<data name="POPUP_PROMPT_QUIT" xml:space="preserve">
+		<value>Quit Orwell</value>
+	</data>
+	<data name="POPUP_PROMPT_QUIT_NOTICE" xml:space="preserve">
+		<value>Oturumunuzu bitirmek istediğinizden emin misiniz? Orwell neresinde kaldığınızı hatırlayacak.</value>
+	</data>
+	<data name="POPUP_PROMPT_REWIND_PROFILE" xml:space="preserve">
+		<value>Rewind profile</value>
+	</data>
+	<data name="POPUP_PROMPT_SURE_DELETE_PROFILE" xml:space="preserve">
+		<value>Profilinizi silmek istediğinizden emin misiniz? İlerlemeniz kaybolacak.</value>
+	</data>
+	<data name="POPUP_PROMPT_SURE_REWIND_PROFILE" xml:space="preserve">
+		<value>Profilinizi geri sarmak istediğinizden emin misiniz? Tüm sonraki ilerleme kaybolacak.</value>
+	</data>
+	<data name="POPUP_PROMPT_SURETOQUIT" xml:space="preserve">
+		<value>Masaüstüne çıkmak istediğinizden emin misiniz?</value>
+	</data>
+	<data name="POPUP_PROMPT_YES" xml:space="preserve">
+		<value>Yes</value>
+	</data>
+	<data name="PROFILER_DATALABEL_ACTIVITIES" xml:space="preserve">
+		<value>Activities</value>
+	</data>
+	<data name="PROFILER_DATALABEL_ALIASES" xml:space="preserve">
+		<value>Aliases</value>
+	</data>
+	<data name="PROFILER_DATALABEL_APPEARANCE" xml:space="preserve">
+		<value>Physique</value>
+	</data>
+	<data name="PROFILER_DATALABEL_BACKGROUND" xml:space="preserve">
+		<value>Background</value>
+	</data>
+	<data name="PROFILER_DATALABEL_COMMUNICATION" xml:space="preserve">
+		<value>Accounts</value>
+	</data>
+	<data name="PROFILER_DATALABEL_CONTACTS" xml:space="preserve">
+		<value>Contacts</value>
+	</data>
+	<data name="PROFILER_DATALABEL_DATEOFBIRTH" xml:space="preserve">
+		<value>Date of Birth</value>
+	</data>
+	<data name="PROFILER_DATALABEL_NAME" xml:space="preserve">
+		<value>Name</value>
+	</data>
+	<data name="PROFILER_DATALABEL_OCCUPATION" xml:space="preserve">
+		<value>Occupation</value>
+	</data>
+	<data name="PROFILER_DATALABEL_PERSONALITYATTITUDE" xml:space="preserve">
+		<value>Personality</value>
+	</data>
+	<data name="PROFILER_DATALABEL_RELATIONSHIPS" xml:space="preserve">
+		<value>Relationship</value>
+	</data>
+	<data name="PROFILER_DATALABEL_RESIDENCE" xml:space="preserve">
+		<value>Address</value>
+	</data>
+	<data name="PROFILER_DROP_HERE" xml:space="preserve">
+		<value>DROP HERE TO</value>
+	</data>
+	<data name="PROFILER_INEXPLICIT_INFORMATION" xml:space="preserve">
+		<value>INEXPLICIT INFORMATION</value>
+	</data>
+	<data name="PROFILER_NOT_POSSIBLE" xml:space="preserve">
+		<value>NOT POSSIBLE</value>
+	</data>
+	<data name="PROFILER_ORWELL_ID" xml:space="preserve">
+		<value>Orwell-ID</value>
+	</data>
+	<data name="PROFILER_PLEASE_WAIT" xml:space="preserve">
+		<value>PLEASE WAIT</value>
+	</data>
+	<data name="PROFILER_POPUP_NEW_DOCUMENTS" xml:space="preserve">
+		<value>Related documents found</value>
+	</data>
+	<data name="PROFILER_POPUP_NO_NEW_DOCUMENTS" xml:space="preserve">
+		<value>No related documents found</value>
+	</data>
+	<data name="PROFILER_POPUP_ONE_NEW_DOCUMENT" xml:space="preserve">
+		<value>Related\ndocument found</value>
+	</data>
+	<data name="PROFILER_PROFILE_TAB" xml:space="preserve">
+		<value>Profile</value>
+	</data>
+	<data name="PROFILER_RELATIONSHIPS_TAB" xml:space="preserve">
+		<value>Relationships</value>
+	</data>
+	<data name="PROFILER_THANK_YOU" xml:space="preserve">
+		<value>THANK YOU</value>
+	</data>
+	<data name="PROFILER_THIS_CANNOT_BE_UNDONE" xml:space="preserve">
+		<value>This cannot be undone</value>
+	</data>
+	<data name="PROFILER_UNKNOWN_PERSON" xml:space="preserve">
+		<value>Unknown Person</value>
+	</data>
+	<data name="PROFILER_UPLOAD_COMPLETE" xml:space="preserve">
+		<value>UPLOAD COMPLETE</value>
+	</data>
+	<data name="PROFILER_UPLOAD_DISCOURAGED" xml:space="preserve">
+		<value>Not all conflicting Datachunks 
+ have been found yet. 
+ Upload is strongly discouraged.</value>
+	</data>
+	<data name="PROFILER_UPLOAD_TO_ORWELL" xml:space="preserve">
+		<value>ORWELL'E YÜKLE</value>
+	</data>
+	<data name="PROFILER_UPLOADING" xml:space="preserve">
+		<value>UPLOADING</value>
+	</data>
+	<data name="PROFILER_WARNING" xml:space="preserve">
+		<value>WARNING</value>
+	</data>
+	<data name="PROFILER_WRONG_PROFILE" xml:space="preserve">
+		<value>WRONG PROFILE</value>
+	</data>
+	<data name="READER_BOOKMARKS_STORED" xml:space="preserve">
+		<value>stored</value>
+	</data>
+	<data name="READER_BOOKMARKS_TAB" xml:space="preserve">
+		<value>Bookmarks</value>
+	</data>
+	<data name="READER_TOOL_BUTTON" xml:space="preserve">
+		<value>–– Reader ––</value>
+	</data>
+	<data name="READER_TOOL_BUTTON_NO_DASHES" xml:space="preserve">
+		<value>Reader</value>
+	</data>
+	<data name="READER_WEBSITE_TAB" xml:space="preserve">
+		<value>Website</value>
+	</data>
+	<data name="SEASONONE_TITLE" xml:space="preserve">
+		<value>Keeping an Eye on You</value>
+	</data>
+	<data name="SEASONTWO_TITLE" xml:space="preserve">
+		<value>Ignorance is Strength</value>
+	</data>
+	<data name="SHOP_HEADLINE" xml:space="preserve">
+		<value>Davanzınızda daha derine inin</value>
+	</data>
+	<data name="SHOP_RESTORE_IN_APPS" xml:space="preserve">
+		<value>Uygulama içi satın alımları geri yükle</value>
+	</data>
+	<data name="SHOP_RESTORE_IN_APPS_BUTTON" xml:space="preserve">
+		<value>Geri Yükle</value>
+	</data>
+	<data name="SHOP_SEASON_PASS" xml:space="preserve">
+		<value>Season Pass</value>
+	</data>
+	<data name="SHOP_SINGLE_EPISODE" xml:space="preserve">
+		<value>Single episodes</value>
+	</data>
+	<data name="SHOP_TAB_CAPTION" xml:space="preserve">
+		<value>Upgrade</value>
+	</data>
+	<data name="SHOP_TAB_CAPTION_FULL_ACCESS" xml:space="preserve">
+		<value>Full access</value>
+	</data>
+	<data name="SHOP_TAB_CAPTION_LIMITED_ACCESS" xml:space="preserve">
+		<value>Limited access</value>
+	</data>
+	<data name="SHOP_UNLOCK_ALL_EPISODES" xml:space="preserve">
+		<value>Tüm bölümlerin kilidini aç</value>
+	</data>
+	<data name="SHOP_UNLOCK_ALL_EPISODES_BUTTON" xml:space="preserve">
+		<value>Tümünü Aç</value>
+	</data>
+	<data name="SKIP_INTRO" xml:space="preserve">
+		<value>skip</value>
+	</data>
+	<data name="TEASER_BUY_ON_STEAM" xml:space="preserve">
+		<value>Tam oyunu Steam'de satın al</value>
+	</data>
+	<data name="TEASER_MAIN_MENU" xml:space="preserve">
+		<value>Back to main menu</value>
+	</data>
+	<data name="UPDATEDROP_DROP_HERE" xml:space="preserve">
+		<value>DROP HERE TO</value>
+	</data>
+	<data name="UPDATEDROP_INSERT_DATA" xml:space="preserve">
+		<value>INSERT DATA</value>
+	</data>
+	<data name="UPLOAD_PLEASE_WAIT" xml:space="preserve">
+		<value>Uploading, please wait</value>
+	</data>
+	<data name="WEATHER_APP_WINDSPEEDS_KM_PER_HOUR" xml:space="preserve">
+		<value>km/h</value>
+	</data>
+	<data name="WEATHER_CLEAR" xml:space="preserve">
+		<value>Clear</value>
+	</data>
+	<data name="WEATHER_CLOUDY" xml:space="preserve">
+		<value>Cloudy</value>
+	</data>
+	<data name="WEATHER_RAIN" xml:space="preserve">
+		<value>Rain</value>
+	</data>
+	<data name="WEATHER_SLIGHTLY_CLOUDY" xml:space="preserve">
+		<value>Slightly cloudy</value>
+	</data>
+	<data name="WEATHER_STORM" xml:space="preserve">
+		<value>Storm</value>
+	</data>
+	<data name="WEATHER_TAB_CAPTION" xml:space="preserve">
+		<value>Weather</value>
+	</data>
+	<data name="WISHLIST_CALLTOACTION" xml:space="preserve">
+		<value>Continue your story</value>
+	</data>
+	<data name="WISHLIST_DONTSHOWAGAIN" xml:space="preserve">
+		<value>Don't show me this when quitting.</value>
+	</data>
+	<data name="WISHLIST_LOADING" xml:space="preserve">
+		<value>loading</value>
+	</data>
+	<data name="WISHLIST_SEASONTWO" xml:space="preserve">
+		<value>[2. Sezon]</value>
+	</data>
+	<data name="WISHLIST_WISHLIST" xml:space="preserve">
+		<value>wishlist</value>
+	</data>
+</root>
